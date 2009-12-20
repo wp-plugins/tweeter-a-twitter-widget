@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Tweeter!
-Plugin URI: http://pathartl.me/
+Plugin URI: http://pathartl.me/4/tweeter/
 Description: Another Twitter widget, this time with some style!
 Author: Pat Hartl
-Version: 1.0.0
+Version: 1.1.0
 Author URI: http://pathartl.me/
 
-Copyright 2009  Pat Harrtl  (email : pat@pathartl.me)
+Copyright 2009  Pat Hartl  (email : pat@pathartl.me)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
